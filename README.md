@@ -31,7 +31,7 @@ dishes, if they are present at 12:00.
 assume that only the words ["pan", "rasp", "kom"] contribute to extra dishes. It doesn't matter how many times the word 
 is mentioned in the recipe. The recipes are in "lunch_recipes.csv"
 
-For the labels, he asked Nieke to install an arduino in the dishwasher. The results are in "dishwasher_log.csv".
+For the labels, he asked our office manager Nieke to install an arduino in the dishwasher. The results are in "dishwasher_log.csv".
 
 
 ## Instructions

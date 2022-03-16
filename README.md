@@ -19,7 +19,7 @@ up a pretty sever case. Time is limited, so let's see how far you can come!
 ## The task
 
 The code base you're looking at is from an old BDR-employee Bob. You might have never seen him because for some reason 
-he was unable to come to the office. But, as we all know, once in a while you're responsible for filling the dishwasher. 
+he was unable to come to the office (also if you're reading this version you don't work at BDR/Vantage). But, as we all know, once in a while you're responsible for filling the dishwasher. 
 Because Bob was never there, he tried to help by creating a model that predicts the number of times the dishwasher has
 to run on a particular day at the office.
 
